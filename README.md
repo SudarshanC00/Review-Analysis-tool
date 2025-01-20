@@ -49,16 +49,15 @@ The **Review-Analysis-tool** is a powerful tool designed to analyze and summariz
 3. **Run the Streamlit app**:
    streamlit run app.py
 
-Screenshots
+## **Screenshots**
 
-Home Page
+**Home Page**
 ![review app home page](https://github.com/user-attachments/assets/4e7413b7-2950-41cd-908c-7c12f515d8eb)
 
-Response Page
+**Response Page**
 ![Review app response](https://github.com/user-attachments/assets/7c38cb0a-ce4a-4f4f-a1d4-e072f97f1521)
 
-Notebook for Model Training
-
+## **Notebook for Model Training**
 The fine-tuned sentiment analysis model was developed using a comprehensive Jupyter Notebook. Below are the main steps:
 	1.	Data Loading:
 	•	Load product reviews from a JSON dataset and preprocess the data.
@@ -71,15 +70,13 @@ The fine-tuned sentiment analysis model was developed using a comprehensive Jupy
 
 Refer to the notebook file for a detailed walkthrough.
 
-Future Enhancements
-
+## **Future Enhancements**
 	•	Add support for multilingual reviews.
 	•	Provide detailed sentiment scores instead of binary classification.
 	•	Enhance UI with advanced visualization features.
 
 
-License
-
+**License**
 This project is licensed under the MIT License.
 
 ### Instructions:
