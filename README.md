@@ -50,12 +50,12 @@ The **Review-Analysis-tool** is a powerful tool designed to analyze and summariz
    streamlit run app.py
 
 ## **Screenshots**
-
-![review app home page](https://github.com/user-attachments/assets/4e7413b7-2950-41cd-908c-7c12f515d8eb)
 **Home Page**
+![review app home page](https://github.com/user-attachments/assets/4e7413b7-2950-41cd-908c-7c12f515d8eb)
 
-![Review app response](https://github.com/user-attachments/assets/7c38cb0a-ce4a-4f4f-a1d4-e072f97f1521)
 **Response Page**
+![Review app response](https://github.com/user-attachments/assets/7c38cb0a-ce4a-4f4f-a1d4-e072f97f1521)
+
 
 ## **Notebook for Model Training**
 The fine-tuned sentiment analysis model was developed using a comprehensive Jupyter Notebook. Below are the main steps:
