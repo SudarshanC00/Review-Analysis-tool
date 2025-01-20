@@ -43,14 +43,11 @@ The **Review-Analysis-tool** is a powerful tool designed to analyze and summariz
    git clone <repository-url>
    cd <repository-directory>
 
-	2.	Install required dependencies:
+2. **Install required dependencies**:
+    pip install -r requirements.txt
 
-pip install -r requirements.txt
-
-
-	3.	Run the Streamlit app:
-
-streamlit run app.py
+3. **Run the Streamlit app**:
+   streamlit run app.py
 
 Folder Structure
 
@@ -66,8 +63,10 @@ Folder Structure
 Screenshots
 
 Home Page
+![review app home page](https://github.com/user-attachments/assets/4e7413b7-2950-41cd-908c-7c12f515d8eb)
 
 Response Page
+![Review app response](https://github.com/user-attachments/assets/7c38cb0a-ce4a-4f4f-a1d4-e072f97f1521)
 
 Notebook for Model Training
 
@@ -89,11 +88,6 @@ Future Enhancements
 	•	Provide detailed sentiment scores instead of binary classification.
 	•	Enhance UI with advanced visualization features.
 
-Contributors
-
-	•	Sudarshan Parag
-
-For any queries, contact itsmeparag14@gmail.com.
 
 License
 
@@ -103,5 +97,3 @@ This project is licensed under the MIT License.
 1. Replace `<repository-url>` and `<repository-directory>` with your GitHub repository details.
 2. Add your **home page** and **response page** screenshots in an `images/` folder.
 3. Save this content as `README.md` in the root directory of your repository.
-
-Let me know if you need additional help!
