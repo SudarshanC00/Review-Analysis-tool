@@ -49,17 +49,6 @@ The **Review-Analysis-tool** is a powerful tool designed to analyze and summariz
 3. **Run the Streamlit app**:
    streamlit run app.py
 
-Folder Structure
-
-.
-├── app.py                    # Streamlit application code
-├── sentiment_model/          # Fine-tuned RoBERTa model directory
-├── README.md                 # Documentation
-├── requirements.txt          # Required Python packages
-└── images/
-    ├── home_page.png         # Screenshot of the home page UI
-    ├── response_page.png     # Screenshot of the response page UI
-
 Screenshots
 
 Home Page
