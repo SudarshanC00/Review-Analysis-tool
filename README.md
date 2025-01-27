@@ -35,20 +35,6 @@ The **Review-Analysis-tool** is a powerful tool designed to analyze and summariz
    - Summarized insights for both positive and negative reviews are displayed on the response page.
 
 ---
-
-## **Installation**
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-
-2. **Install required dependencies**:
-    pip install -r requirements.txt
-
-3. **Run the Streamlit app**:
-   streamlit run app.py
-
 ## **Screenshots**
 **Home Page**
 ![review app home page](https://github.com/user-attachments/assets/4e7413b7-2950-41cd-908c-7c12f515d8eb)
@@ -78,8 +64,3 @@ Refer to the notebook file for a detailed walkthrough.
 
 **License**
 This project is licensed under the MIT License.
-
-### Instructions:
-1. Replace `<repository-url>` and `<repository-directory>` with your GitHub repository details.
-2. Add your **home page** and **response page** screenshots in an `images/` folder.
-3. Save this content as `README.md` in the root directory of your repository.
