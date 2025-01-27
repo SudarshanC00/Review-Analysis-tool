@@ -45,14 +45,10 @@ The **Review-Analysis-tool** is a powerful tool designed to analyze and summariz
 
 ## **Notebook for Model Training**
 The fine-tuned sentiment analysis model was developed using a comprehensive Jupyter Notebook. Below are the main steps:
-	1.	Data Loading:
-	•	Load product reviews from a JSON dataset and preprocess the data.
-	2.	Sentiment Analysis:
-	•	Perform sentiment analysis using VADER and fine-tune a RoBERTa model.
-	3.	Review Summarization:
-	•	Use the BART model to generate summaries for positive and negative reviews.
-	4.	Model Saving:
-	•	Save the trained model for deployment.
+1. Data Loading: Load product reviews from a JSON dataset and preprocess the data.
+2. Sentiment Analysis: Perform sentiment analysis using VADER and fine-tune a RoBERTa model.
+3. Review Summarization: Use the BART model to generate summaries for positive and negative reviews.
+4. Model Saving: Save the trained model for deployment.
 
 Refer to the notebook file for a detailed walkthrough.
 
